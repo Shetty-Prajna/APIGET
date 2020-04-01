@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="image">image</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="tittle">tittle</string>
+    <string name="body">body</string>
+    <string name="newbody">newBody</string>
+    <string name="newtittle">newTittle</string>
+    <string name="label">APIGetDemo</string>
+    <string name="internet">No internet connection</string>
+    <string name="data">no data available</string>
+
+
+</resources>
